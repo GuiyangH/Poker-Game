@@ -5,6 +5,10 @@ PokerGame.py:  Main file operating the poker play
 
 PokerRules.py: A supportive script with all the rules of playing a '5-Card'
 
+font: fonts.
+
+img: images of the cards.
+
 ## How to Play:
 Openup PokerGame.py and run the script directly.
 
